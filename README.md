@@ -4,7 +4,7 @@ This was made as a part of Web Dev Bootcamp from Udemy.
 
 ## Deployed App
 
-Click the link to visit the [Newsletter App](https://ayu10xnewsletter.herokuapp.com/)
+Click the link to visit the [Newsletter App](https://thawing-depths-33458.herokuapp.com/)
 
 ## Instructions
 To build the app
